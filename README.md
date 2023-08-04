@@ -16,7 +16,7 @@ To set up the program prior to initial run, the following commands need to be in
 5) npm i --save-dev jest @babel/plugin-transform-modules-commonjs
 6) Add the following in 'package.json' file -> "test": "jest"
 
-To run program: node index.js
-To initialize testing: npm run test
+- To run program: node index.js
+- To initialize testing: npm run test
 
 To see an improved version of this project (able to switch to other crypto currencies), please refer to the next-luno-premium repo.
