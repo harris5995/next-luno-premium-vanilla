@@ -19,4 +19,4 @@ To set up the program prior to initial run, the following commands need to be in
 To run program: node index.js
 To initialize testing: npm run test
 
-
+To see an improved version of this project (able to switch to other crypto currencies), please refer to the next-luno-premium repo.
